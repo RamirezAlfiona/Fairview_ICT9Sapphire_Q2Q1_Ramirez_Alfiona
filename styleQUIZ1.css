@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	color:#f5cd49;
+	font-family: Georgia;
+	background-color: #416e9e;
+}
+
+body{
+	background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20240827/pngtree-blue-gradient-wavy-background-vector-image_16153040.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+img{
+	height: 340px;
+	width: 340px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.container1{
+	border-radius: 25px;
+  	background: #416e9e;
+  	padding: 20px;
+}
